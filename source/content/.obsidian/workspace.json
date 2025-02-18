@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "bandit/+Bandit+.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "+Bandit+"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bandit/+Bandit+.md",
+                "file": "bandit/Level 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "+Bandit+"
+              "title": "Level 1"
             }
           }
         ],
@@ -186,8 +186,9 @@
   },
   "active": "0489567f16ed1dc7",
   "lastOpenFiles": [
-    "index.md",
     "bandit/+Bandit+.md",
+    "bandit/Level 1.md",
+    "index.md",
     "bandit",
     "another page!.md",
     "category-folder/index.md",
