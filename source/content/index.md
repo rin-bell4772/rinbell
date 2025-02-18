@@ -9,4 +9,4 @@ My background is in Computer Science and Cybersecurity. I am still learning, and
 
 # About this site
 ---
-Files marked with `+` are typically the "home" or "main" page of a folder! They will typically contain 
+Files marked with `+` are typically the "home" or "main" page of a folder! They will typically contain a description of the folder and give you an idea about what I'm writing about!
