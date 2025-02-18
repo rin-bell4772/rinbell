@@ -34,6 +34,21 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'rin-bell4772/rin-bell4772.github.io',
+        // from data-repo-id
+        repoId: 'R_kgDON7qJ6g',
+        // from data-category
+        category: 'Announcements',
+        // from data-category-id
+        categoryId: 'DIC_kwDON7qJ6s4CnFsE',
+      }
+    }),
+  ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
