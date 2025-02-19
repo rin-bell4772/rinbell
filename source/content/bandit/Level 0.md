@@ -10,11 +10,9 @@ You are given:
 
 Once you successfully `ssh` in, then you have completed level 0!
 
-> [!check]+ answer
+> [!check]- answer
 > This solution is very short! Just open any terminal and type the following command:
 > ```zsh
 > ssh bandit0@bandit.labs.overthewire.org -p 2220
 > ```
-
-
 
