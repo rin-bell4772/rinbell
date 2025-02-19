@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/About Site.md",
+                "file": "bandit/Level 0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "About Site"
+              "title": "Level 0"
             }
           },
           {
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -214,9 +215,10 @@
   },
   "active": "0489567f16ed1dc7",
   "lastOpenFiles": [
-    "about/About Me.md",
-    "about/About Site.md",
     "bandit/Level 1.md",
+    "bandit/Level 0.md",
+    "about/About Site.md",
+    "about/About Me.md",
     "bandit/+Bandit+.md",
     "index.md",
     "about",
