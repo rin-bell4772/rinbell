@@ -1,6 +1,6 @@
 This is the introductory level of Bandit!
 
-The purpose of this level seems to be to teach you about `ssh`! 
+The purpose of this level seems to be to teach you about [[ssh]]! 
 
 You are given:
 - username: `bandit0`
@@ -16,3 +16,9 @@ Once you successfully `ssh` in, then you have completed level 0!
 > ssh bandit0@bandit.labs.overthewire.org -p 2220
 > ```
 
+# commands
+---
+[[ssh]]
+
+
+# Next Level: [[Level 1]]
