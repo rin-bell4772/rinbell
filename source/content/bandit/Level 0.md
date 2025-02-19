@@ -8,7 +8,7 @@ You are given:
 - host name: `bandit.labs.overthewire.org`
 - port number: `2220`
 
-Once you successfully `ssh` in, then you have completed level 0!
+Once you successfully [[ssh]] in, then you have completed level 0!
 
 > [!check]- answer
 > This solution is very short! Just open any terminal and type the following command:
