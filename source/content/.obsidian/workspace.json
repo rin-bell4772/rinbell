@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -151,8 +150,19 @@
               "icon": "lucide-list",
               "title": "Outline of another page!"
             }
+          },
+          {
+            "id": "838303eb2b5aea14",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -172,13 +182,15 @@
   },
   "active": "269a3dd1e90cf4de",
   "lastOpenFiles": [
-    "bandit/Level 0.md",
-    "notes/ssh.md",
-    "index.md",
     "bandit/+Bandit+.md",
+    "bandit/Level 0.md",
     "bandit/Level 1.md",
-    "notes",
     "about/About Me.md",
+    "articles/Untitled.md",
+    "index.md",
+    "articles",
+    "notes/ssh.md",
+    "notes",
     "about/About Site.md",
     "about",
     "another page!.md",
