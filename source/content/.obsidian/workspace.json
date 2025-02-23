@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -181,9 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "269a3dd1e90cf4de",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "How do I Increase My Privacy?.md",
+    "articles/How do I Increase My Privacy?.md",
     "bandit/Level 1.md",
     "articles/Why is Privacy Important?.md",
     "index.md",
