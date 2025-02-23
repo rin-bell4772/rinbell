@@ -9,6 +9,11 @@ Check out some of these links to get started:
 - [[About Me]]
 - [[About Site]]
 
+Articles:
+- [[Why is Privacy Important?]]
+
+OverTheWire's Bandit:
+- [[+Bandit+]]
 # Site Organization
 ---
 ## +

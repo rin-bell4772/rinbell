@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "articles/Why is Privacy Important?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Why is Privacy Important?"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -182,16 +183,17 @@
   },
   "active": "269a3dd1e90cf4de",
   "lastOpenFiles": [
+    "How do I Increase My Privacy?.md",
+    "bandit/Level 1.md",
+    "articles/Why is Privacy Important?.md",
+    "index.md",
+    "about/About Me.md",
+    "about/About Site.md",
     "bandit/+Bandit+.md",
     "bandit/Level 0.md",
-    "bandit/Level 1.md",
-    "about/About Me.md",
-    "articles/Untitled.md",
-    "index.md",
     "articles",
     "notes/ssh.md",
     "notes",
-    "about/About Site.md",
     "about",
     "another page!.md",
     "bandit",
